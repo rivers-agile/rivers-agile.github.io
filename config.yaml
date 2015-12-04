@@ -3,6 +3,6 @@ layoutdir: "layouts"
 publishdir: "public"
 indexes:
   category: "categories"
-baseurl: "http://rivers-agile.github.io/blog"
+baseurl: "http://rivers-agile.github.io/public"
 title: "Rivers Agile Dev Thoughts"
 canonifyurls: true

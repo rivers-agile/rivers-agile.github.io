@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://rivers-agile.github.io/blog/</loc>
+    <loc>http://rivers-agile.github.io/public/</loc>
     <lastmod>2014-03-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://rivers-agile.github.io/blog/posts/helloworld/</loc>
+    <loc>http://rivers-agile.github.io/public/posts/helloworld/</loc>
     <lastmod>2014-03-29T00:00:00+00:00</lastmod>
   </url>
   
