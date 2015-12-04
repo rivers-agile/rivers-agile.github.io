@@ -10,6 +10,15 @@
     
     <item>
       <title>Just another sample post</title>
+      <link>http://rivers-agile.github.io/public/posts/test/</link>
+      <pubDate>Sat, 29 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://rivers-agile.github.io/public/posts/test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Just another sample post</title>
       <link>http://rivers-agile.github.io/public/posts/helloworld/</link>
       <pubDate>Sat, 29 Mar 2014 00:00:00 +0000</pubDate>
       
