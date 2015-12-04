@@ -1,0 +1,8 @@
+contentdir: "content"
+layoutdir: "layouts"
+publishdir: "public"
+indexes:
+  category: "categories"
+baseurl: "http://rivers-agile.github.io/blog"
+title: "Rivers Agile Dev Thoughts"
+canonifyurls: true
