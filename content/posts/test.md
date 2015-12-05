@@ -1,5 +1,5 @@
 ---
-title: "Just another sample post"
-date: "2014-03-29"
+title: "Not another simple post"
+date: "2015-12-04"
 description: "this thing"
 ---
